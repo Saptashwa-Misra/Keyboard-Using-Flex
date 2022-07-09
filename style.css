@@ -38,6 +38,7 @@ body{
 .key:hover{
     box-shadow: 0 0 25px 0 salmon;
     font-size: 200%;
+    color: rgb(60, 255, 0);
 }
 
 .caps:hover{
